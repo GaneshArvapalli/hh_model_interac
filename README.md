@@ -6,3 +6,5 @@ The equations were developed in 1952 and are were based on experimental evidence
 Instead of using an ODE solver, just use the Euler method and a for-loop. Hence, simple. Obviously, it won't be as robust or detailed, but it's good enough to show how the equations they thought of can actually produce a similar result to the ones we see in real neurons.
 
 Change any variables you wish to see how it affects the model.
+
+# the brain allows us to do cool stuff
