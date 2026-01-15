@@ -1,4 +1,4 @@
-# hh_model_interac
+# Hodgkin_huxley
 # demo for Docs in DS
 A simple version of the neuron action potential simulation originally developed by Alan Lloyd Hodgkin and Andrew Fielding Huxley in this [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/).
 
